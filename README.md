@@ -87,6 +87,7 @@ For more details, readers are referred to the paper [^1].
 This repo provides data used in the paper [^1] as follows:
 - `./data_plot` contains data for plotting figures.
 - `./data_time` contains data to calculate the mean elapsed time.
+Note that the data are generated with Julia 1.9.3 on M1 Macbook Air.
 
 #### Methods
 `:opt` and `:tvopt` stand for i) OL-Opt and ii) CL-TVOpt (proposed).
