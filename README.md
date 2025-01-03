@@ -1,7 +1,6 @@
 # VTOLSmoothTransitionFlight
 Official repository of "Smooth Reference Command Generation and Control for Transition Flight of VTOL Aircraft Using Time-Varying Optimization" [^1].
 - Paper: https://arxiv.org/abs/2501.0073
-    - The arXiv version contains the latest result.
 
 ## Abstract
 > Vertical take-off and landing (VTOL) aircraft pose a challenge in generating reference
